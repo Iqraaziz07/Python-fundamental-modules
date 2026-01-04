@@ -1,8 +1,8 @@
-# python Fundamentals
+#Python Fundamentals
 
 This repository contains **basic to intermediate Python programs and modules** designed to help beginners understand **Python fundamentals** through practical examples.
 
-## 📌Contents
+##📌Contents
 
 This repository includes Python programs and modules covering:
 
@@ -19,17 +19,17 @@ Each program is written in a **simple and easy-to-understand manner** for learni
 
 ---
 
-## Getting Started
+##Getting Started
 
 ### Prerequisites
 - Python 3.x installed  
 - Any code editor (VS Code, PyCharm, IDLE)
 
-### Run a Program
+###Run a Program
 ```bash
 python filename.py
 ```
-## Libraries
+##Libraries
 - *pandas*
 - *Nltk*
 - *MatPlotLib*
